@@ -1,0 +1,7 @@
+Project ini adalah Virtual Reality Tata Surya yang menggunakan Library Aframe Javascript.
+
+Jadi dimana untuk membuat sebuah object / model kita hanya memanggil sebuah attribute yang sudah disediakan oleh Aframe.
+untuk membuat gambar yang ada di model itu adalah gambar png/jpg pada umumnya. nanti akan di proses oleh Library Aframe nya untuk menjadi sebuah object yang sudah di tentukan.
+
+jika folder node_modules tidak ada, maka silakan ketik di CMD "npm install" untuk menginstall package npm nya.
+setelah itu jalankan programnya dengan ketik "npm run start"
